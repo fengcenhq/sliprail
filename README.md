@@ -8,7 +8,7 @@ Sliprail – Your Shortcut Hub. Launch apps, switch windows, and run system comm
 ## For Developers
 
 Create custom extensions using our templates:
-- [Extension Starter Template](https://github.com/fengcenhq/sliprail-extension-template)
+- [Extension Template](https://github.com/fengcenhq/sliprail-extension-template)
 - [Extension Bundle Template](https://github.com/fengcenhq/sliprail-extension-bundle-template)
 
 Your contributions help make Sliprail better for everyone!
